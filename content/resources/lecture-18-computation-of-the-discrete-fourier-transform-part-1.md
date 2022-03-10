@@ -10,7 +10,7 @@ optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
 related_resources_text: Computation of the Discrete Fourier Transform, Part 1 (![This
-  resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec18-1))
+  resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec18-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Computation of the Discrete Fourier Transform, Part 1'

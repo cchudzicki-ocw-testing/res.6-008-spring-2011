@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Discrete-Time Signals and Systems, Part 2 ([PDF](resources/mitres_6_008s11_lec03-1))
+related_resources_text: Discrete-Time Signals and Systems, Part 2 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec03-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Discrete-Time Signals and Systems, Part 2'

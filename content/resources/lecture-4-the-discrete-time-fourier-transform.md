@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: The Discrete-Time Fourier Transform ([PDF](resources/mitres_6_008s11_lec04-1))
+related_resources_text: The Discrete-Time Fourier Transform ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec04-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: The Discrete-Time Fourier Transform'

@@ -10,7 +10,7 @@ optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
 related_resources_text: Discrete-Time Signals and Systems, Part 1 (![This resource
-  may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec02-1))
+  may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec02-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Discrete-Time Signals and Systems, Part 1'

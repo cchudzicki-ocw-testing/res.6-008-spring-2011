@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: The Discrete Fourier Series ([PDF](resources/mitres_6_008s11_lec08-1))
+related_resources_text: The Discrete Fourier Series ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec08-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: The Discrete Fourier Series'

@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Computation of the Discrete Fourier Transform, Part 3 ([PDF](resources/mitres_6_008s11_lec20-1))
+related_resources_text: Computation of the Discrete Fourier Transform, Part 3 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec20-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Computation of the Discrete Fourier Transform, Part 3'

@@ -10,7 +10,7 @@ optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
 related_resources_text: Network Structures for Infinite Impulse Response (IIR) Systems
-  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec12-1))
+  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec12-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Network Structures for Infinite Impulse Response (IIR) Systems'

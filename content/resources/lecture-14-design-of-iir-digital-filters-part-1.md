@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Design of IIR Digital Filters, Part 1 ([PDF](resources/mitres_6_008s11_lec14-1))
+related_resources_text: Design of IIR Digital Filters, Part 1 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec14-1))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Design of IIR Digital Filters, Part 1'
