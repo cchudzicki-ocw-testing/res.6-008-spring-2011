@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Design of IIR Digital Filters, Part 1 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec14-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Design of IIR Digital Filters, Part 1'
 uid: 839a64db-7fb1-8dcc-a850-23c4ccd0da51
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Transformation of analog filter designs to digital filter designs, approximation of derivatives by differences, impulse invariant design procedures.
 
 **Instructor:** Prof. Alan V. Oppenheim
+

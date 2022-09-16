@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Introduction ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec01-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction'
 uid: 543e8e06-a277-df86-cdfe-8fccf94fc91b
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Introduction, applications, Enhancement, processing.
 
 **Instructor:** Prof. Alan V. Oppenheim
+

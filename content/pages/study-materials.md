@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Study Materials
@@ -50,7 +51,7 @@ Introduction
 Discrete-time signals and systems, part 1
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a9726c8e-9321-5875-da86-8bc49d57cca8 "PDF" %}})
+({{% resource_link a9726c8e-9321-5875-da86-8bc49d57cca8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link f371214f-549e-a904-8913-5d5461ba1338 "PDF" %}})
@@ -125,7 +126,7 @@ The inverse z-transform
 Z-transform properties
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1dcccd99-4371-2942-639d-89090db35256 "PDF" %}})
+({{% resource_link 1dcccd99-4371-2942-639d-89090db35256 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 342ac662-8b75-81a0-8980-3b1f0d42fc08 "PDF" %}})
@@ -200,7 +201,7 @@ Representation of linear digital networks
 Network structures for infinite impulse response (IIR) systems
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ad667a5d-6609-9a5f-e823-f57b4b575bbf "PDF" %}})
+({{% resource_link ad667a5d-6609-9a5f-e823-f57b4b575bbf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 8a764b7d-4dc0-89d1-162a-19ee58192a14 "PDF" %}})
@@ -260,7 +261,7 @@ Design of IIR digital filters, part 2
 Digital Butterworth filters
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a99637c5-8c12-2479-5c9d-03faa1bd4323 "PDF" %}})
+({{% resource_link a99637c5-8c12-2479-5c9d-03faa1bd4323 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 9b015cd4-3f5e-dfe9-dc27-c594022707e9 "PDF" %}})
@@ -275,7 +276,7 @@ Digital Butterworth filters
 Design of FIR digital filters
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aea8444f-f81f-deed-9c2b-66dccebbce47 "PDF" %}})
+({{% resource_link aea8444f-f81f-deed-9c2b-66dccebbce47 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 77e21cf5-56f0-959e-80a5-27d2be4e2c9f "PDF" %}})
@@ -290,7 +291,7 @@ Design of FIR digital filters
 Computation of the discrete Fourier transform, part 1
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 30433d4a-c300-3ee0-2003-ad8ccb726ab0 "PDF" %}})
+({{% resource_link 30433d4a-c300-3ee0-2003-ad8ccb726ab0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 48b84b00-5297-67e8-eebf-490808b178e4 "PDF" %}})
@@ -305,7 +306,7 @@ Computation of the discrete Fourier transform, part 1
 Computation of the discrete Fourier transform, part 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9e8a5b1f-f26b-0da7-6069-c4e5b205a0d2 "PDF" %}})
+({{% resource_link 9e8a5b1f-f26b-0da7-6069-c4e5b205a0d2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 60afc58d-a9ae-3ffd-042f-672a1b642f81 "PDF" %}})

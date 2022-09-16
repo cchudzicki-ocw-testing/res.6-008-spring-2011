@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Representation of Linear Digital Networks ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec11-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Representation of Linear Digital Networks'
 uid: 4702023b-32f2-77d1-7778-723243b6c058
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Block diagram presentation of difference equations, linear-signal flow graphs, flow graph representation of difference equations, matrix representation of digital networks, computability of digital networks.
 
 **Instructor:** Prof. Alan V. Oppenheim
+

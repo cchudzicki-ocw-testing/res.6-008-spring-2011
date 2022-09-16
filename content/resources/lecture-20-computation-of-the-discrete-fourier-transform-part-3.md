@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Computation of the Discrete Fourier Transform, Part 3 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec20-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Computation of the Discrete Fourier Transform, Part 3'
 uid: 040463c7-a951-ba8c-31ec-ca7c0a08d9ac
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Rearrangements of the basic decimation-in-frequency algorithm, relation between decimation-in-time and decimation-in-frequency through the transposition theorem, arbitrary radix FFT algorithms.
 
 **Instructor:** Prof. Alan V. Oppenheim
+

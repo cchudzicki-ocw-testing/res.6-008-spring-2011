@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Demonstration 1: Sampling, Aliasing, and Frequency Response, Part 1'
 uid: a8e2f3db-d8cb-b59d-f512-763287828b6a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Sampling and aliasing with a sinusoidal signal, sinusoidal response of a digital filter, dependence of frequency response on sampling period, periodic nature of the frequency response of a digital filter.
 
 **Instructor:** Prof. Alan V. Oppenheim
+

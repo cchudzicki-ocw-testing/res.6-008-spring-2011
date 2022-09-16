@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section gives an overview of course format, contents, and prerequisites.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Introduction

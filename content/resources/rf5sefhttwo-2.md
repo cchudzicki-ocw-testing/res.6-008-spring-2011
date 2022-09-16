@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-008-digital-signal-processing-spring-2011/76b47ea29bef50a38cb8d71c8999b4b8_rF5sEfhttwo.vtt
+file: /media/courses/res-6-008-digital-signal-processing-spring-2011/76b47ea29bef50a38cb8d71c8999b4b8_rF5sEfhttwo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

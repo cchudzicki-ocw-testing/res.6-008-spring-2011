@@ -1,18 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
 related_resources_text: Network Structures for Infinite Impulse Response (IIR) Systems
-  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec12-1))
+  ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec12-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Network Structures for Infinite Impulse Response (IIR) Systems'
 uid: 947bb2fb-248d-5e3a-7fd1-13ebea673243
 video_files:
@@ -27,3 +30,4 @@ video_metadata:
 **Topics covered:** Basic network structures for IIR filters, direct cascade and parallel form, canonic structures, transposition theorem for digital networks and the resulting transposed forms.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
